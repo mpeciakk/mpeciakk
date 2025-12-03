@@ -13,8 +13,10 @@
     <img src="https://komarev.com/ghpvc/?username=mpeciakk&color=01b92a" alt="Profile Views" />
     <br />
   </div>
+
+  <br />
 </div>
-<br />
+
 ## What I Do 💻
 
 - 🌐 **Web Development**: Expertise in TypeScript, Next.js, and modern web technologies
