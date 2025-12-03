@@ -14,7 +14,7 @@
     <br />
   </div>
 </div>
-
+<br />
 ## What I Do 💻
 
 - 🌐 **Web Development**: Expertise in TypeScript, Next.js, and modern web technologies
